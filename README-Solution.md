@@ -49,4 +49,3 @@ When you're done with the infrastructure, you can destroy it using below command
 1. Delete the content in the S3 bucket
 2. ```shell
     terraform destroy --auto-approve
-   ```
